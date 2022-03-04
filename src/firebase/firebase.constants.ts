@@ -1,6 +1,6 @@
 export const COLLECTIONS = {
   USERS: 'users',
-  ITEMS: 'items'
+  ITEMS: 'events'
 };
 
 export const LOCAL_STORAGE = {
